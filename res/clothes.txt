@@ -1,0 +1,8 @@
+Lacoste,Green,T shirt,XLarge,Male,50,68
+Giorgio Armani,White,T shirt,Medium,Female,45,21
+Giorgio Armani,Blue,T shirt,Large,Male,60,19
+Adidas,Dark BLue,Jacket,Large,Male,100,11
+Gizia,Blue,Trouser,Small,Female,70,33
+Lacoste,Pink,T shirt,XLarge,Male,Male,40
+Gizia,Cyan and Blue,Pants,Medium,Female,30,21
+Giorgio Armani,Red and Blue,Short,Medium,Female,30,12

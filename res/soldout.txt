@@ -1,0 +1,5 @@
+
+Gizia,Blue,Trouser,Small,Female Bought By Jalal
+Lacoste,Green,T shirt,XLarge,Male Bought By Jalal
+Giorgio Armani,White,T shirt,Medium,Female Bought By Jalal
+Lacoste,Black,T shirt,XLarge,Male Bought By Jalal

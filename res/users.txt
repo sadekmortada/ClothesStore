@@ -1,0 +1,4 @@
+HassanZaarour,mypassword,employee
+MohammadAli,mypassword,employee
+Hilal99,mypaasword,customer
+Jalal,mypassword,customer
